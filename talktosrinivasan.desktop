@@ -1,0 +1,8 @@
+sudo apt install git
+mkdir g
+cd g 
+echo pls move talk desktop  to .local share
+sudo pcmanfm /home/pi/g/
+sudo pcmanfm /home/pi/.local/share/
+
+git clone https://github.com/srini-pro/talk/
